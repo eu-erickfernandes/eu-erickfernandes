@@ -20,6 +20,10 @@ Atuando nas duas áreas, encontrei o meu papel na projeção e implementação d
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-erickfernandes&layout=compact&theme=dracula&locale=pt-br&title_color=fff)
 
+## 🛠 Projetos em andamento
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eu-erickfernandes&repo=encurta-django&theme=dracula)](https://github.com/eu-erickfernandes/encurta-django)
+
 ## 📲 Fale comigo
 
 <div>

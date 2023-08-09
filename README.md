@@ -22,9 +22,11 @@ Atuando nas duas áreas, encontrei o meu papel na projeção e implementação d
 
 ## 🛠 Projetos em andamento
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eu-erickfernandes&repo=encurta-django&theme=dracula)](https://github.com/eu-erickfernandes/encurta-django)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eu-erickfernandes&repo=7days-react&theme=dracula)](https://github.com/eu-erickfernandes/7days-react)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eu-erickfernandes&repo=meus-links&theme=dracula)](https://github.com/eu-erickfernandes/meus-links)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eu-erickfernandes&repo=encurta-django&theme=dracula)](https://github.com/eu-erickfernandes/encurta-django)
 
 ## 📲 Fale comigo
 

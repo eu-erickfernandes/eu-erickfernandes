@@ -1,8 +1,6 @@
 # 🎈 Bem vindo, me chamo Érick Fernandes
 
-No universo da tecnologia, venho andando com um pé no Desenvolvimento Front-End e outro no UI Design.
-<br>
-Atuando nas duas áreas, encontrei o meu papel na projeção e implementação de interfaces simples e intuitivas que proporcionam ao usuário experiências digitais de qualidade.
+No universo da tecnologia, encontrei o meu entusiasmo na projeção e implementação de interfaces simples, intuitivas e funcionais que proporcionam ao usuário experiências digitais de qualidade.
 
 ## 💻 Minha stack em construção...
 

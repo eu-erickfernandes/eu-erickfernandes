@@ -2,7 +2,7 @@
 
 No universo da tecnologia, encontrei o meu entusiasmo na projeção e implementação de interfaces simples, intuitivas e funcionais que proporcionam ao usuário experiências digitais de qualidade.
 
-## 💻 Minha stack em construção...
+## 💻 Stack em construção...
 
 <div>
 	<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

@@ -1,8 +1,8 @@
-# 🎈 Bem vindo, me chamo Érick Fernandes
+# Bem vindo, me chamo Érick Fernandes
 
 No universo da tecnologia, encontrei o meu entusiasmo na projeção e implementação de interfaces simples, intuitivas e funcionais que proporcionam ao usuário experiências digitais de qualidade.
 
-## 💻 Stack em construção...
+## Stack em construção...
 
 <div>
 	<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,17 +19,7 @@ No universo da tecnologia, encontrei o meu entusiasmo na projeção e implementa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-erickfernandes&layout=compact&theme=dracula&locale=pt-br&title_color=fff)
 
-<!-- 
-## 🛠 Projetos em andamento
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eu-erickfernandes&repo=7days-react&theme=dracula)](https://github.com/eu-erickfernandes/7days-react)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eu-erickfernandes&repo=meus-links&theme=dracula)](https://github.com/eu-erickfernandes/meus-links)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eu-erickfernandes&repo=encurta-django&theme=dracula)](https://github.com/eu-erickfernandes/encurta-django)
--->
-
-## 📲 Fale comigo
+## Fale comigo
 
 <div>
 	<a href="https://instagram.com/eu_erickfernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

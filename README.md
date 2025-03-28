@@ -1,7 +1,5 @@
 # Olá, me chamo Érick Fernandes
 
-No universo da tecnologia, encontrei o meu entusiasmo na projeção e implementação de interfaces simples, intuitivas e funcionais que proporcionam ao usuário experiências digitais de qualidade.
-
 ## Stack em construção...
 
 <div>
